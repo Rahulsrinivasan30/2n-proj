@@ -48,6 +48,6 @@ a{
     text-decoration: none;
 }
 a:hover{
-text-decoration: underline;
-color: #f01515;
+   text-decoration: underline;
+   color: #f01515;
 }
