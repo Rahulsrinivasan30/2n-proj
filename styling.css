@@ -52,5 +52,8 @@ a:hover{
    color: #f01515;
 }
 .post button:active{
-    color: #f01515a8;
+    color: #caf0f8;
+   background-color: #15f069;
+   
+    
 }
