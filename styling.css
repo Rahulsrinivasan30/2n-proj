@@ -44,3 +44,9 @@ input[type="password"]{
     background-color: #f01515;
     color: #caf0f8;
 }
+a{
+    text-decoration: none;
+}
+a:hover{
+text-decoration: underline;
+}
