@@ -51,3 +51,6 @@ a:hover{
    text-decoration: underline;
    color: #f01515;
 }
+.post button:active{
+    color: #f01515a8;
+}
