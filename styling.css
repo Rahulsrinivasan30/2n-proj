@@ -40,3 +40,7 @@ span a{
 input[type="password"]{
     color: rgb(20, 170, 20);
 }
+.post button:hover{
+    background-color: #f01515;
+    color: #caf0f8;
+}
