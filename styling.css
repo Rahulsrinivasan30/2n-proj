@@ -32,6 +32,7 @@ span{
     color: #9d0208;
     
 }
+/* descendent selector below */
 span a{
     color:#032924;
 }
