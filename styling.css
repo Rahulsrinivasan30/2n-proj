@@ -36,6 +36,7 @@ span{
 span a{
     color:#032924;
 }
+/* attribute selector */
 input[type="password"]{
     color: rgb(20, 170, 20);
 }
